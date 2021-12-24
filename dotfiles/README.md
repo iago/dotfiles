@@ -24,3 +24,5 @@
 
 ## Referências
 [Instalação do Neovim e plugins](https://dev.to/edersonferreira/criando-um-ambiente-de-desenvolvimento-com-vim-neovim-42)
+[Criação de repositório para dotfiles](https://www.ackama.com/what-we-think/the-best-way-to-store-your-dotfiles-a-bare-git-repository-explained/)
+
