@@ -20,7 +20,6 @@
 
 ## Outras ferramentas
 - [Exa](https://the.exa.website/) Ferramenta para listar os arquivos do diretório de forma mais organizada
-
 - [Powerline fonts](https://github.com/powerline/fonts) Fontes para o Terminal exibir corretamente o prompt do Fish
 
 ## Referências
